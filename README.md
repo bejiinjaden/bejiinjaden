@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bejiinjaden
-- 👀 I’m interested in ....
-- 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me 
+- 👀 I’m interested in becoming an aerospace engineer or an electronics engineer
+- 🌱 I’m currently learning nothing ):
+- 💞️ I’m looking to collaborate on web development based on React
+- 📫 How to reach me discord Bejiin Jaden#5115 (mostly active)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love playing videogames and reading books (currently reading : The Alchemist)
 
 <!---
 bejiinjaden/bejiinjaden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
